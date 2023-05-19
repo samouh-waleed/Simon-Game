@@ -5,4 +5,4 @@ Leveraged JavaScript and jQuery to design an engaging and interactive Simon game
 # What I learned 
 I strengthened my JavaScript and jQuery skills, learned advanced DOM manipulation techniques, and gained further insights into the design and logic of interactive games.
 # To access the website 
-https://github.com/samouh-waleed/Simon-Game.git
+https://samouh-waleed.github.io/Simon-Game/
